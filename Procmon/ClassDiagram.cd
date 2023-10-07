@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ThreadInfo">
+    <Position X="3" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAECACAA=</HashCode>
+      <FileName>LogicBuildingProcmon.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DLLInfo">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAIAACAJAA=</HashCode>
+      <FileName>LogicBuildingProcmon.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProcessInfo">
+    <Position X="6.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAEAAAAAEAAgAAAAAAACAAAEAAEAIAACBAAI=</HashCode>
+      <FileName>LogicBuildingProcmon.cpp</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="pdobj" />
+      <Field Name="ptobj" />
+    </ShowAsAssociation>
+  </Class>
+  <Struct Name="LogFile">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogicBuildingProcmon.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="UINT" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LOGFILE" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogicBuildingProcmon.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

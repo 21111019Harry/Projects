@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="superblock">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="inode">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAQIABgAAAAAAABAAAgAAAAAAAAAABAQAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="filetable">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACIBAAAAAAAAAAAAAAAQAAAAAAgAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ufdt">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="SUPERBLOCK" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PSUPERBLOCK" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="INODE" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PINODE" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PPINODE" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FILETABLE" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PFILETABLE" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="UFDT" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedVFS.cpp</FileName>
+    </TypeIdentifier>
+    <AliasOfLine Type="ufdt" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.25" Y="4.5" />
+        <Point X="8.25" Y="4.288" />
+        <Point X="12.625" Y="4.288" />
+        <Point X="12.625" Y="4.75" />
+      </Path>
+    </AliasOfLine>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
